@@ -36,9 +36,6 @@ Treinamento e Avaliação do Modelo:
 
 Utilize técnicas de machine learning, como regressão linear, árvores de decisão, para treinar modelos preditivos.
 
-A atividade poderá ser feita em duplas e reservarmos a próxima quarta feira (21/05/2025) para tirarmos dúvidas em sala.
-
-A atividade valerá **2,5 pontos**, a entrega será online e o modelo do documento entregue deverá ser na forma de relatório ou monografia!
 
 ## O que foi feito
 
